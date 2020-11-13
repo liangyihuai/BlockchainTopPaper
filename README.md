@@ -4,6 +4,16 @@
 
 **This is a collection of Blockchain papers from top conferences and top journals. It also includes some white papers, such as Filecoin.**
 
+-------------update 2020/11/13----------------------------
+
+会议：CCS '19: Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security
+
+[CCS19](https://dl.acm.org/doi/proceedings/10.1145/3319535)
+[CCS94-19](https://dl.acm.org/doi/proceedings/10.1145/2046707)
+
+仔细一看，发现这个会议在2019年的跟区块链相关的论文太多了，因此就不将论文引用贴到这里了，建议到上面这个地址看看。部分论文提供了作者演讲的视频文件，这是好东西，请不要错过。
+
+
 ----------------upate 2020/11/05-------------------------->
 
 
