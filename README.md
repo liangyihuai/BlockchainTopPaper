@@ -4,6 +4,15 @@
 
 **This is a collection of Blockchain papers from top conferences and top journals. It also includes some white papers, such as Filecoin.**
 
+----------------更新-----20201126-----SIGMOD2020--------
+
+Ruan, Pingcheng, et al. "A Transactional Perspective on Execute-order-validate Blockchains."Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020.
+
+Yanqing Peng, Min Du, Feifei Li, Raymond Cheng, and Dawn Song. 2020. FalconDB: Blockchain-based Collaborative Database. In Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data (SIGMOD '20). Association for Computing Machinery, New York, NY, USA, 637–652. DOI:https://doi.org/10.1145/3318464.3380594
+
+
+Amrita Roy Chowdhury, Chenghong Wang, Xi He, Ashwin Machanavajjhala, and Somesh Jha. 2020. Cryptϵ: Crypto-Assisted Differential Privacy on Untrusted Servers. In Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data (SIGMOD '20). Association for Computing Machinery, New York, NY, USA, 603–619.
+
 -------------update 2020/11/13----------------------------
 
 会议：CCS '19: Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security
