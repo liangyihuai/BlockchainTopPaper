@@ -5,6 +5,7 @@
 **This is a collection of Blockchain papers from top conferences and top journals. It also includes some white papers, such as Filecoin.**
 
 ----------------更新-----20201126-----SIGMOD2020--------
+>会议proceeding https://dl.acm.org/doi/proceedings/10.1145/3318464
 
 Ruan, Pingcheng, et al. "A Transactional Perspective on Execute-order-validate Blockchains."Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020.
 
