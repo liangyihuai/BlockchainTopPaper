@@ -4,6 +4,58 @@
 
 **This is a collection of Blockchain papers from top conferences and top journals. It also includes some white papers, such as Filecoin.**
 
+
+--------更新-----20210118-----来自2020 IEEE Symposium on Security and Privacy------
+
+> The Table of Contents of this conference can be found via this link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152678&tag=1 
+
+
+HydRand: Efficient Continuous Distributed Randomness
+
+Philipp Schindler (SBA Research), Aljosha Judmayer (SBA Research), Nicholas Stifter (SBA Research / TU Wien), and Edgar Weippl (SBA Research / TU Wien)
+
+
+
+OHIE: Blockchain Scaling Made Simple
+
+Haifeng Yu (National University of Singapore), Ivica Nikolic (National University of Singapore), Ruomu Hou (National University of Singapore), and Prateek Saxena (National University of Singapore)
+
+
+
+Sync HotStuff: Simple and Practical Synchronous State Machine Replication
+
+Ittai Abraham (VMware Research), Dahlia Malkhi (Calibra), Kartik Nayak (Duke University), Ling Ren (University of Illinois at Urbana-Champaign), and Maofan Yin (Cornell University)
+
+
+
+Replicated State Machines without Replicated Execution
+
+Jonathan Lee (Microsoft Research), Kirill Nikitin (EPFL), and Srinath Setty (Microsoft Research)
+
+
+
+A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network
+
+Muoi Tran (National University of Singapore), Inho Choi (National University of Singapore), Gi Jun Moon (Korea University), Anh V. Vu (Japan Advanced Institute of Science and Technology), and Min Suk Kang (National University of Singapore)
+
+
+
+Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability
+
+Philip Daian (Cornell Tech, USA), Steven Goldfeder (Cornell Tech, USA), Tyler Kell (Cornell Tech, USA), Yunqi Li (UIUC, USA), Xueyuan Zhao (Carnegie Mellon University, USA), Iddo Bentov (Cornell Tech, USA), Lorenz Breidenbach (ETH Zurich, Switzerland), and Ari Juels (Cornell Tech, USA)
+
+
+
+FlyClient: Super-Light Clients for Cryptocurrencies
+
+Benedikt Bünz (Stanford University), Lucianna Kiffer (Northeastern University), Loi Luu (Kyber Network), and Mahdi Zamani (Visa Research)
+
+
+
+ZEXE: Enabling Decentralized Private Computation
+
+Sean Bowe (Zcash), Alessandro Chiesa (UC Berkeley), Matthew Green (Johns Hopkins University), Ian Miers (Cornell Tech), Pratyush Mishra (UC Berkeley), and Howard Wu (UC Berkeley)
+
 ----------------更新-----20201126-----SIGMOD2020--------
 >会议proceeding https://dl.acm.org/doi/proceedings/10.1145/3318464
 
